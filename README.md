@@ -1,6 +1,6 @@
 # Deep-Person: Learning Discriminative Deep Features for Person Re-Identification
 
-Code for [Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658) based on [open-reid](https://github.com/Cysu/open-reid).
+Code for [Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658).
 
 ![Deep-Person Overview](overview.png)
 ## Prerequisites
@@ -66,3 +66,7 @@ If you find this project helpful for your research, please cite the following pa
 ```
 
 IMPORTANT NOTICE: Although this software is licensed under MIT, our intention is to make it free for academic research purposes. If you are going to use it in a product, we suggest you [contact us](mailto:xbai@hust.edu.cn) regarding possible patent issues.
+
+## Acknowledgements
+
+The code is based on [open-reid](https://github.com/Cysu/open-reid). We sincerely thank for the great work.
