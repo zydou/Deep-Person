@@ -45,7 +45,7 @@ cd DeepPerson/
 python examples/deep.py -d market1501 --resume logs/market/checkpoint.pth.tar --evaluate
 ```
 
-We provide a pretrained model on Market1501 which can be found at our [release page](https://github.com/zydou/DeepPerson/releases).
+We provide a pretrained model on Market1501 which can be found at our [release page](https://github.com/zydou/Deep-Person/releases).
 ## Citation
 
 If you find this project helpful for your research, please cite the following paper:
