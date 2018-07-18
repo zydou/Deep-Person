@@ -65,4 +65,4 @@ If you find this project helpful for your research, please cite the following pa
 }
 ```
 
-IMPORTANT NOTICE: Although this software is licensed under MIT, our intention is to make it free for academic research purposes. If you are going to use it in a product, we suggest you [contact us](xbai@hust.edu.cn) regarding possible patent issues.
+IMPORTANT NOTICE: Although this software is licensed under MIT, our intention is to make it free for academic research purposes. If you are going to use it in a product, we suggest you [contact us](mailto:xbai@hust.edu.cn) regarding possible patent issues.
