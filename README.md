@@ -2,6 +2,7 @@
 
 Code for [Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658) based on [open-reid](https://github.com/Cysu/open-reid).
 
+![Deep-Person Overview](overview.png)
 ## Prerequisites
 Deep-Person is developed and tested with Pytorch 0.2 and Python 3.6.
 
@@ -45,7 +46,7 @@ cd DeepPerson/
 python examples/deep.py -d market1501 --resume logs/market/checkpoint.pth.tar --evaluate
 ```
 
-We provide a pretrained model on Market1501 which can be found at our [release page](https://github.com/zydou/DeepPerson/releases).
+We provide a pretrained model on Market1501 which can be found at our [release page](https://github.com/zydou/Deep-Person/releases).
 ## Citation
 
 If you find this project helpful for your research, please cite the following paper:
