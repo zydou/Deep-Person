@@ -106,7 +106,6 @@ ENV/
 # experiments logs
 experiments/
 log*/
-eval*/
 .vscode/
 ._.DS_Store
 *.dylib
